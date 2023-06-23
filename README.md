@@ -1,2 +1,2 @@
-# Simple fix wagon script / vorp only
+# Simple fix wagon script / only for VORP Framework
 Is required: syn_minigame 
